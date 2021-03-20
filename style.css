@@ -1,0 +1,8 @@
+.lolo {
+	display: inline;
+
+}
+
+#menu:hover {
+	background-image: repeating-radial-gradient(red, yellow 10%, green 15%);
+}
